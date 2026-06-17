@@ -1,0 +1,9 @@
+/var/lib/ai-studio/
+data/
+*.log
+.env
+.compose.profile
+__pycache__/
+*.pyc
+.venv/
+venv/
